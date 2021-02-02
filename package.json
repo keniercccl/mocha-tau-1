@@ -1,0 +1,28 @@
+{
+  "name": "mocha-tau-1",
+  "version": "1.0.0",
+  "description": "Test para aprender mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keniercccl/mocha-tau-1.git"
+  },
+  "keywords": [
+    "test",
+    "mocha",
+    "git",
+    "github"
+  ],
+  "author": "\"Kenier Becerr \\ <keniercccl@gmail.com\\>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keniercccl/mocha-tau-1/issues"
+  },
+  "homepage": "https://github.com/keniercccl/mocha-tau-1#readme",
+  "dependencies": {
+    "mocha": "^8.2.1"
+  }
+}
