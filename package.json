@@ -4,7 +4,8 @@
   "description": "Test para aprender mocha",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "test2": "test2"
   },
   "repository": {
     "type": "git",
