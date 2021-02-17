@@ -4,7 +4,8 @@
   "description": "Test para aprender mocha",
   "main": "index.js",
   "scripts": {
-    "test": "mocha \"*.test.js\" --ui bdd"
+    "test": "mocha \"*.test.js\" --ui bdd",
+    "testing": "mocha \"*.spec.js\" --ui bdd"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,11 @@
   },
   "homepage": "https://github.com/keniercccl/mocha-tau-1#readme",
   "dependencies": {
-    "mocha": "^8.2.1"
+    "chai": "^4.3.0",
+    "express": "^4.17.1",
+    "mocha": "^8.3.0",
+    "nock": "^13.0.7",
+    "node": "^15.8.0",
+    "supertest": "^6.1.3"
   }
 }

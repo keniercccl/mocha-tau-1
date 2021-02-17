@@ -7,7 +7,7 @@ describe('Mocha hooks', () => {
   });
 
   beforeEach('This hook execute before any test',() => {
-  
+    
     console.log("try to print ${b}")
   });
 
